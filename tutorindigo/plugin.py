@@ -23,7 +23,7 @@ config = {
             {"title": "Terms of service", "url": "/tos"},
             {
                 "title": "NISH theme for Open edX",
-                "url": "https://github.com/NISH-COURSES/tutor-indigo",
+                "url": "https://github.com/NISH-COURSES/tutor-nish-theme",
             },
         ],
     },
